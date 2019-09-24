@@ -1,3 +1,8 @@
+'''
+This program asks the user for the ISBN number and checks if it is a valid
+ISBN code. It prints out YES if it is valid, and NO when it is not valid
+'''
+#Miki Ando
 
 isbn = input("ISBN: ")
 
